@@ -30,7 +30,7 @@ Kullanıcıların video yükleyip izleyebileceği, modern arayüze sahip bir str
 ## 📂 Dosya Yapısı
 
 ```
-/video-streaming-platform
+/src
 ├── /server           # Node.js + Express backend
 │   ├── app.js        # Ana sunucu dosyası
 │   ├── /routes       # API rotaları (upload, stream, vs.)
